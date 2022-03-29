@@ -18,7 +18,7 @@
                 </div>
                 <div class="col-sm-4 col-md-3 item"></div>
                 <div class="col-lg-3 item social"><img src="{{asset('assets/img/logo_idle.png')}}" style="height: 92px;">
-                    <p class="copyright">Copyright &copy; IDLe  2021</p>
+                    <p class="copyright">Copyright &copy; IDLe  2022</p>
                 </div>
             </div>
         </div>
