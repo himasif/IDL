@@ -126,7 +126,7 @@ class KompetisiPenyisihan1 extends Controller
             $email = $mahasiswa["email"];
             $mailer->send('mails.daftar', compact('tim', 'kategori', 'kode'), function ($message) use ($email, $kategori) {
                 $message
-                    ->from(strtolower($kategori->ormawa->nama_ormawa) . '@idle-2021.me')
+                    ->from(strtolower($kategori->ormawa->nama_ormawa) . '@idle-2022.me')
                     ->to($email)
                     ->subject('Pendaftaran IDLe');
             });
