@@ -44,7 +44,7 @@
                    <p class="text-justify">
                      Lomba Perancangan Bisnis Bidang TIK adalah kompetisi pengembangan model bisnis dengan produk TIK. Suatu perencanaan bisnis adalah penghubung antara ide dan kenyataan artinya bagaimana ide diwujudkan menjadi kenyataan dengan mengetahui faktor-faktor yang menjadi pemicu keberhasilan dan kegaagalan suatu bisnis. Lomba ini memberikan kesempatan kepada peserta yang memiliki ide bisnis, startup dan pengembangan usaha yang berorientasi pada produk TIK, baik berupa jasa dan produk. 
                      </p>
-                     <a class="btn btn-success shadow" href="{{ asset('assets/rulebook/'.$kategori->kategori.'.pdf') }}">Rule Book</a>
+                     <a class="btn btn-success shadow" href="{{ asset('assets/rulebook/isic/'.$kategori->kategori.'.pdf') }}">Rule Book</a>
                      <a class="btn btn-success shadow" href="{{ asset('assets/template/'.$kategori->kategori.'.docx') }}">Template</a>
                      <a class="btn btn-success shadow" href="{{ route('kompetisi.peserta', ['kategori' => $kategori->kategori]) }}">Daftar Peserta</a>
                </div>

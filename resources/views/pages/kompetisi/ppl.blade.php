@@ -44,7 +44,7 @@
                    <p class="text-justify">
                     Pengembangan perangkat lunak adalah pengembangan suatu produk perangkat lunak yang mencakup penelitian, pengembangan baru, purwarupa, modifikasi, pemakaian kembali, rekayasa ulang, pengelolaan, atau aktivitas lain yang menghasilkan produk perangkat lunak. Lomba pengembangan perangkat lunak menguji kemampuan peserta dalam mengembangkan ide secara kreatif untuk memberikan solusi penyelesaian masalah di Indonesia dalam bentuk perangkat lunak berkualitas tinggi. 
                      </p>
-                     <a class="btn btn-success shadow" href="{{ asset('assets/rulebook/'.$kategori->kategori.'.pdf') }}">Rule Book</a>
+                     <a class="btn btn-success shadow" href="{{ asset('assets/rulebook/isic/'.$kategori->kategori.'.pdf') }}">Rule Book</a>
                      <a class="btn btn-success shadow" href="{{ asset('assets/template/'.$kategori->kategori.'.docx') }}">Template</a>
                      <a class="btn btn-success shadow" href="{{ route('kompetisi.peserta', ['kategori' => $kategori->kategori]) }}">Daftar Peserta</a>
                </div>
