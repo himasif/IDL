@@ -44,7 +44,7 @@
                    <p class="text-justify">
                    Karya Tulis Ilmiah merupakan bidang lomba yang mendorong peserta untuk mengembangkan sebuah karya tulis dalam bentuk penuangan gagasan atau ide kreatif yang bersifat visioner dan implementatif untuk mencari solusi atas permasalahan bangsa yang siap terbit dengan mengikuti kaidah penugasan ilmiah. Diharapkan peserta yang mengikuti bidang lomba ini mampu berinovasi dan menyajikan karya tulis ilmiah yang memberikan solusi dari segi TIK untuk kedaulatan bangsa.<br>
                      </p>
-                     <a class="btn btn-success shadow" href="{{ asset('assets/rulebook/'.$kategori->kategori.'.pdf') }}">Rule Book</a>
+                     <a class="btn btn-success shadow" href="{{ asset('assets/rulebook/isic/'.$kategori->kategori.'.pdf') }}">Rule Book</a>
                      <a class="btn btn-success shadow" href="{{ asset('assets/template/'.$kategori->kategori.'.docx') }}">Template</a>
                      <a class="btn btn-success shadow" href="{{ route('kompetisi.peserta', ['kategori' => $kategori->kategori]) }}">Daftar Peserta</a>
                </div>
