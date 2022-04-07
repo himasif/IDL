@@ -46,7 +46,7 @@ class PostImageController extends Controller
             'name' => $request->name
         ]);
 
-        return redirect()->route('admin.post-image.index')->with('success', 'Upload Berhasil, URL: http://idle-2021.me'.$url);
+        return redirect()->route('admin.post-image.index')->with('success', 'Upload Berhasil, URL: idle-unej.my.id'.$url);
     }
 
     /**
