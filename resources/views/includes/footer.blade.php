@@ -6,7 +6,7 @@
                     <h3>Kontak</h3>
                     <ul>
                         <li><a href="mailto:humas@idle.ilkom.unej.ac.id">E-Mail : humas@idle-2021.me</a></li>
-                        <li><a href="/faq#tanya">6282245482429 (Elsadora)</a></li>
+                        <li><a href="/faq#tanya">6281294710595 (Alifta)</a></li>
                         <li><a href="/faq#tanya">6282338251752 (Viqi)</a></li>
                         <li><a href="/faq#tanya">6285732442883 (Dinda)</a></li>
                         <li><a href="/faq#tanya">6282247706420 (Zufar)</a></li>
