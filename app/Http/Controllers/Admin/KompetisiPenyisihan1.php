@@ -64,50 +64,44 @@ class KompetisiPenyisihan1 extends Controller
         $kategori = Kategori::with('ormawa')->find($id_kategori);
 
         $mahasiswas = [];
-        for($i=0; $i<count($request->nama); $i++){
+        for ($i = 0; $i < count($request->nama); $i++) {
             $mahasiswas[$i]["nama"] = $request->nama[$i];
             $mahasiswas[$i]["nim"] = $request->nim[$i];
             $mahasiswas[$i]["email"] = $request->email[$i];
             $mahasiswas[$i]["no_hp"] = $request->no_hp[$i];
         }
 
-        if(count($m = Tim::where('ketua_tim', $mahasiswas[0]["nim"])->get())){
+        if (count($m = Tim::where('ketua_tim', $mahasiswas[0]["nim"])->get())) {
             return redirect()->back()->with('error', 'Gagal mendaftar, karena ' . $m->first()->nama . ' sudah menjadi ketua di tim lain');
         }
 
         // TODO : Validation ????
 
         $pesertas = [];
-		$count = 0;
-      	
+        $count = 0;
+
         foreach ($mahasiswas as $mahasiswa) {
-          	$count++;
-          	if($count <= 2) {
-                if($mahasiswa["nim"] == null ){
+            $count++;
+            if ($count <= 2) {
+                if ($mahasiswa["nim"] == null) {
                     return redirect()->back()->with('error', 'Gagal mendaftar, karena NIM belum diisi');
-                }
-                else if(preg_match("/[12][0789]241010[1-3][01][0-9]{2}/", $mahasiswa["nim"]) == 0){
+                } else if (preg_match("/[12][01289]241010[1-3][01][0-9]{2}/", $mahasiswa["nim"]) == 0) {
                     return redirect()->back()->with('error', 'Gagal mendaftar, karena NIM tidak sesuai');;
-                }
-                else {
-                	$mhs = Mahasiswa::createMahasiswa($mahasiswa["nim"], $mahasiswa["nama"], $mahasiswa["email"], $mahasiswa["no_hp"]);
+                } else {
+                    $mhs = Mahasiswa::createMahasiswa($mahasiswa["nim"], $mahasiswa["nama"], $mahasiswa["email"], $mahasiswa["no_hp"]);
 
-                	array_push($pesertas, $mhs);
+                    array_push($pesertas, $mhs);
                 }
-            }
-          	else {
-              	if($mahasiswa["nama"] == null && $mahasiswa["nim"] == null && $mahasiswa["email"] == null && $mahasiswa["no_hp"] == null){
+            } else {
+                if ($mahasiswa["nama"] == null && $mahasiswa["nim"] == null && $mahasiswa["email"] == null && $mahasiswa["no_hp"] == null) {
                     continue;
-                }
-              	else if(preg_match("/[12][0789]241010[1-3][01][0-9]{2}/", $mahasiswa["nim"]) == 0){
+                } else if (preg_match("/[12][0789]241010[1-3][01][0-9]{2}/", $mahasiswa["nim"]) == 0) {
                     return redirect()->back()->with('error', 'Gagal mendaftar, karena NIM tidak sesuai');;
-                }
-              	else {
-                	$mhs = Mahasiswa::createMahasiswa($mahasiswa["nim"], $mahasiswa["nama"], $mahasiswa["email"], $mahasiswa["no_hp"]);
+                } else {
+                    $mhs = Mahasiswa::createMahasiswa($mahasiswa["nim"], $mahasiswa["nama"], $mahasiswa["email"], $mahasiswa["no_hp"]);
 
-                	array_push($pesertas, $mhs);
+                    array_push($pesertas, $mhs);
                 }
-              	
             }
         }
 
@@ -119,14 +113,14 @@ class KompetisiPenyisihan1 extends Controller
 
         $mailer = app()->make(\Snowfire\Beautymail\Beautymail::class);
         $kode = $tim->submissionid;
-        foreach ($mahasiswas as $mahasiswa){
-            if($mahasiswa["nim"] == null){
+        foreach ($mahasiswas as $mahasiswa) {
+            if ($mahasiswa["nim"] == null) {
                 continue;
             }
             $email = $mahasiswa["email"];
             $mailer->send('mails.daftar', compact('tim', 'kategori', 'kode'), function ($message) use ($email, $kategori) {
                 $message
-                    ->from(strtolower($kategori->ormawa->nama_ormawa) . '@idle-2022.me')
+                    ->from(strtolower($kategori->ormawa->nama_ormawa) . '@idle-unej.my.id')
                     ->to($email)
                     ->subject('Pendaftaran IDLe');
             });
@@ -135,7 +129,6 @@ class KompetisiPenyisihan1 extends Controller
         // TODO : return redirect with success
 
         return redirect()->back()->with('success', 'Tim berhasil didaftarkan, silahkan cek email anda');
-
     }
 
     /**
