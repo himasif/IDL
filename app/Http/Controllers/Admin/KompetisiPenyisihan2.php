@@ -58,7 +58,7 @@ class KompetisiPenyisihan2 extends Controller
                 $email = $peserta->mahasiswa->email;
                 $mailer->send('mails.lolos', compact('tahap', 'tim_', 'kategori', 'nama', 'kode'), function ($message) use ($email) {
                     $message
-                        ->from(strtolower(Auth::user()->name) . '@idle.ilkom.unej.ac.id')
+                        ->from(strtolower(Auth::user()->name) . '@idle-unej.my.id')
                         ->to($email)
                         ->subject('Pengumuman Babak 2');
                 });
