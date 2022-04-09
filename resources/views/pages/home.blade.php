@@ -105,7 +105,7 @@
             <div class="d-flex flex-row justify-content-center">
                 <img class="events" src="{{asset('assets/img/BITS.png')}}" alt="">
                 <img class="events" src="{{asset('assets/img/ITEC.png')}}" alt="">
-                <img class="events" src="{{asset('assets/img/ICOM.png')}}" alt="">
+                <img class="events" src="{{asset('assets/img/icom.png')}}" alt="">
                 <img class="events" src="{{asset('assets/img/LAOS_ARENA.png')}}" alt="">
             </div>
     </div>
