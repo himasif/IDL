@@ -106,7 +106,7 @@
                 <img class="events" src="{{asset('assets/img/BITS.png')}}" alt="">
                 <img class="events" src="{{asset('assets/img/ITEC.png')}}" alt="">
                 <img class="events" src="{{asset('assets/img/icom.png')}}" alt="">
-                <img class="events" src="{{asset('assets/img/LAOS_ARENA.png')}}" alt="">
+                <img class="events" src="{{asset('assets/img/laos_arena.png')}}" alt="">
             </div>
     </div>
 @endsection
