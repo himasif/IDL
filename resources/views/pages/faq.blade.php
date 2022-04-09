@@ -45,26 +45,26 @@
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q1" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Apa sih BITS 2021 itu?
+                        BITS: Apa sih BITS 2022 itu?
                       </button>
                     </h5>
                 </div>
                 <div id="Q1" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      BITS 2021 (Bulan IT Sistem Informasi) merupakan serangkaian ajang kompetisi di bidang IT tingkat Fakultas yang diselenggarakan oleh Himpunan Mahasiswa Sistem Informasi yang akan diadakan pada tahun 2021.
+                      BITS 2022 (Bulan IT Sistem Informasi) merupakan serangkaian ajang kompetisi di bidang IT tingkat Fakultas yang diselenggarakan oleh Himpunan Mahasiswa Sistem Informasi yang akan diadakan pada tahun 2022.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q2" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Acara apa saja yang akan diadakan oleh BITS 2021 ini?
+                        BITS: Acara apa saja yang akan diadakan oleh BITS 2022 ini?
                       </button>
                     </h5>
                 </div>
                 <div id="Q2" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      BITS 2021 ini akan mengadakan acara ISIC dan PKM Go untuk mengisi kegiatan BITS 2021 ini.
+                      BITS 2022 ini akan mengadakan acara ISIC dan PKM Go untuk mengisi kegiatan BITS 2022 ini.
                     </div>
                 </div>
               
@@ -77,27 +77,27 @@
                 </div>
                 <div id="Q3" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      ISIC merupakan sebuah kompetisi bidang IT yang bisa menjadi wadah untuk mahasiswa Fakultas Ilmu Komputer agar dapat melakukan proses uji kompetensi ide-ide mereka secara intensif dan juga teratur dalam lingkup fakultas ilmu komputer Universitas Jember. Sedangkan PKM Go merupakan acara perlombaan di bidang Pekan Kreativitas Mahasiswa (PKM) tingkat Fakultas Ilmu Komputer Universitas Jember yang bertujuan untuk menjadi wadah sebagai media untuk menuangkan ide, mengkaji serta mengembangkan ilmu dan teknologi yang telah di pelajari di perkulihan. Untuk info lebih lengkap bisa cek instagram BITS 2021.
+                      ISIC merupakan sebuah kompetisi bidang IT yang bisa menjadi wadah untuk mahasiswa Fakultas Ilmu Komputer agar dapat melakukan proses uji kompetensi ide-ide mereka secara intensif dan juga teratur dalam lingkup fakultas ilmu komputer Universitas Jember. Sedangkan PKM Go merupakan acara perlombaan di bidang Pekan Kreativitas Mahasiswa (PKM) tingkat Fakultas Ilmu Komputer Universitas Jember yang bertujuan untuk menjadi wadah sebagai media untuk menuangkan ide, mengkaji serta mengembangkan ilmu dan teknologi yang telah di pelajari di perkulihan. Untuk info lebih lengkap bisa cek instagram BITS 2022.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q4" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Kapan pelaksanaan BITS 2021?
+                        BITS: Kapan pelaksanaan BITS 2022?
                       </button>
                     </h5>
                 </div>
                 <div id="Q4" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      BITS 2021 akan dilaksanakan pada tanggal 4 April - 5 Juni 2021.
+                      BITS 2022 akan dilaksanakan pada tanggal 4 April - 5 Juni 2022.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q5" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Bagaimana cara mendaftar BITS 2021?
+                        BITS: Bagaimana cara mendaftar BITS 2022?
                       </button>
                     </h5>
                 </div>
@@ -110,20 +110,20 @@
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q6" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Apakah pendaftaran BITS 2021 dipungut biaya?
+                        BITS: Apakah pendaftaran BITS 2022 dipungut biaya?
                       </button>
                     </h5>
                 </div>
                 <div id="Q6" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      Tidak, pendaftaran BITS 2021 ini gratis tidak dipungut biaya.
+                      Tidak, pendaftaran BITS 2022 ini gratis tidak dipungut biaya.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q7" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Apakah perlombaan BITS 2021 hanya boleh diikuti oleh mahasiswa prodi Sistem Informasi?
+                        BITS: Apakah perlombaan BITS 2022 hanya boleh diikuti oleh mahasiswa prodi Sistem Informasi?
                       </button>
                     </h5>
                 </div>
@@ -194,7 +194,7 @@
                 </div>
                 <div id="Q12" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      Tema dalam perlombaan BITS 2021 kali ini yaitu "Transformation of Technology on Pandemic Era". Untuk selengkapnya bisa dilihat di dalam rulebook.
+                      Tema dalam perlombaan BITS 2022 kali ini yaitu "Transformation of Technology on Pandemic Era". Untuk selengkapnya bisa dilihat di dalam rulebook.
                     </div>
                 </div>
               
@@ -221,7 +221,7 @@
                 </div>
                 <div id="Q14" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      ITeC dilaksanakan mulai tanggal 4 April 2021 - 2 Mei 2021.                    
+                      ITeC dilaksanakan mulai tanggal 4 April 2022 - 2 Mei 2022.                    
                   	</div>
                 </div>
 
