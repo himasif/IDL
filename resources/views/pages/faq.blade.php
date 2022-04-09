@@ -42,161 +42,170 @@
        <div class="card-body">
             <div id="accordion"> 
               
-              <div class="card-header">
+               {{-- <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q1" aria-expanded="true" aria-controls="collapseOne">
                         ISIC: Apa sih ISIC 2022 itu?
                       </button>
                     </h5>
-                </div>
-                <div id="Q1" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                </div> --}}
+                {{-- <div id="Q1" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      ISIC 2022 (Bulan IT Sistem Informasi) merupakan serangkaian ajang kompetisi di bidang IT tingkat Fakultas yang diselenggarakan oleh Himpunan Mahasiswa Sistem Informasi yang akan diadakan pada tahun 2022.
+                      BITS 2022 (Bulan IT Sistem Informasi) merupakan serangkaian ajang kompetisi di bidang IT tingkat Fakultas yang diselenggarakan oleh Himpunan Mahasiswa Sistem Informasi yang akan diadakan pada tahun 2022.
                     </div>
-                </div>
-              
+                </div> --}}
+                <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q1" aria-expanded="true" aria-controls="collapseOne">
+                      ISIC: Apa sih ISIC 2022 itu?
+                    </button>
+                  </h5>
+              </div> --}}
+              <div id="Q1" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    ISIC merupakan sebuah kompetisi bidang IT yang bisa menjadi wadah untuk mahasiswa Fakultas Ilmu Komputer agar dapat melakukan proses uji kompetensi ide-ide mereka secara intensif dan juga teratur dalam lingkup fakultas ilmu komputer Universitas Jember.
+                  </div>
+              </div> 
               <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q2" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Acara apa saja yang akan diadakan oleh ISIC 2022 ini?
-                      </button>
-                    </h5>
+                <h5 class="mb-0">
+                  <button class="btn btn-link" data-toggle="collapse" data-target="#Q12" aria-expanded="true" aria-controls="collapseOne">
+                    ISIC: Apakah ada tema khusus dalam perlombaan ISIC ini?
+                  </button>
+                </h5>
+            </div>
+            <div id="Q12" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                <div class="card-body">
+                  Tema dalam perlombaan ISIC 2022 kali ini yaitu "Superior ICT Innovation to Build a Smart Society". Untuk selengkapnya bisa dilihat di dalam rulebook.
                 </div>
-                <div id="Q2" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      ISIC 2022 ini akan mengadakan acara ISIC dan PKM Go untuk mengisi kegiatan ISIC 2022 ini.
-                    </div>
-                </div>
-              
-              <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q3" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Apa perbedaan ISIC dan PKM Go?
-                      </button>
-                    </h5>
-                </div>
-                <div id="Q3" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      ISIC merupakan sebuah kompetisi bidang IT yang bisa menjadi wadah untuk mahasiswa Fakultas Ilmu Komputer agar dapat melakukan proses uji kompetensi ide-ide mereka secara intensif dan juga teratur dalam lingkup fakultas ilmu komputer Universitas Jember. Sedangkan PKM Go merupakan acara perlombaan di bidang Pekan Kreativitas Mahasiswa (PKM) tingkat Fakultas Ilmu Komputer Universitas Jember yang bertujuan untuk menjadi wadah sebagai media untuk menuangkan ide, mengkaji serta mengembangkan ilmu dan teknologi yang telah di pelajari di perkulihan. Untuk info lebih lengkap bisa cek instagram ISIC 2022.
-                    </div>
-                </div>
-              
-              <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q4" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Kapan pelaksanaan ISIC 2022?
-                      </button>
-                    </h5>
-                </div>
-                <div id="Q4" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      ISIC 2022 akan dilaksanakan pada tanggal 4 April - 5 Juni 2022.
-                    </div>
-                </div>
-              
-              <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q5" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Bagaimana cara mendaftar ISIC 2022?
-                      </button>
-                    </h5>
-                </div>
-                <div id="Q5" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      Pendaftaran dilakukan melalui Website IDLe.
-                    </div>
-                </div>
-              
-              <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q6" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Apakah pendaftaran ISIC 2022 dipungut biaya?
-                      </button>
-                    </h5>
-                </div>
-                <div id="Q6" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      Tidak, pendaftaran ISIC 2022 ini gratis tidak dipungut biaya.
-                    </div>
-                </div>
-              
-              <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q7" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Apakah perlombaan ISIC 2022 hanya boleh diikuti oleh mahasiswa prodi Sistem Informasi?
-                      </button>
-                    </h5>
-                </div>
-                <div id="Q7" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      Tidak, ISIC juga merupakan bagian dari IDLe, yang berarti mahasiswa fakultas ilmu komputer bisa join, silahkan lihat rulebook bagian ketentuan peserta untuk lebih jelas.
-                    </div>
-                </div>
-              
-              <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q8" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Apa hubungannya ISIC dengan Gemastik?
-                      </button>
-                    </h5>
-                </div>
-                <div id="Q8" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      Gemastik merupakan lomba tingkat nasional, terdapat sub lomba yang merupakan inspirasi dari lomba ISIC. Adanya acara ISIC juga merupakan ajang dalam mempersiapkan mahasiswa mengikuti gemastik.
-                    </div>
-                </div>
-              
-              <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q9" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Apakah template proposal sudah disediakan dan kapan dibagikan?
-                      </button>
-                    </h5>
-                </div>
-                <div id="Q9" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      Sudah, template akan disediakan oleh panitia dan untuk pembagian template sesuai dengan jadwal di website.
-                    </div>
-                </div>
-              
-              <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q10" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Dalam satu tim terdiri dari berapa orang?
-                      </button>
-                    </h5>
-                </div>
-                <div id="Q10" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      Satu tim terdiri dari maksimal 3 orang dengan 1 mahasiswa menjadi ketua tim.
-                    </div>
-                </div>
-              
-              <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q11" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Setiap mahasiswa boleh mengikuti berapa bidang perlombaan?
-                      </button>
-                    </h5>
-                </div>
-                <div id="Q11" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      Mahasiswa diberi kesempatan dengan mengikuti maksimal 3 bidang perlombaan, dengan hanya 1 kali menjadi ketua tim.
-                    </div>
-                </div>
-              
-              <div class="card-header">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#Q12" aria-expanded="true" aria-controls="collapseOne">
-                        ISIC: Apakah ada tema khusus dalam perlombaan ISIC ini?
-                      </button>
-                    </h5>
-                </div>
-                <div id="Q12" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      Tema dalam perlombaan ISIC 2022 kali ini yaitu "Transformation of Technology on Pandemic Era". Untuk selengkapnya bisa dilihat di dalam rulebook.
-                    </div>
-                </div>
+            </div>
+            {{-- <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q2" aria-expanded="true" aria-controls="collapseOne">
+                      ISIC: Acara apa saja yang akan diadakan oleh ISIC 2022 ini?
+                    </button>
+                  </h5>
+              </div>
+              <div id="Q2" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    BITS 2022 ini akan mengadakan acara ISIC dan PKM Go untuk mengisi kegiatan BITS 2022 ini.
+                  </div>
+              </div> --}}
+            
+            {{-- <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q3" aria-expanded="true" aria-controls="collapseOne">
+                      BITS: Apa perbedaan ISIC dan PKM Go?
+                    </button>
+                  </h5>
+              </div>
+              <div id="Q3" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    ISIC merupakan sebuah kompetisi bidang IT yang bisa menjadi wadah untuk mahasiswa Fakultas Ilmu Komputer agar dapat melakukan proses uji kompetensi ide-ide mereka secara intensif dan juga teratur dalam lingkup fakultas ilmu komputer Universitas Jember. Sedangkan PKM Go merupakan acara perlombaan di bidang Pekan Kreativitas Mahasiswa (PKM) tingkat Fakultas Ilmu Komputer Universitas Jember yang bertujuan untuk menjadi wadah sebagai media untuk menuangkan ide, mengkaji serta mengembangkan ilmu dan teknologi yang telah di pelajari di perkulihan. Untuk info lebih lengkap bisa cek instagram BITS 2022.
+                  </div>
+              </div> --}}   
+            <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q4" aria-expanded="true" aria-controls="collapseOne">
+                      ISIC: Kapan pelaksanaan ISIC 2022?
+                    </button>
+                  </h5>
+              </div>
+              <div id="Q4" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    ISIC 2022 akan dilaksanakan pada tanggal 10 april - 26 juni 2022.
+                  </div>
+              </div>
+            
+            <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q5" aria-expanded="true" aria-controls="collapseOne">
+                      ISIC: Bagaimana cara mendaftar ISIC 2022?
+                    </button>
+                  </h5>
+              </div>
+              <div id="Q5" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    Pendaftaran dilakukan melalui Website IDLe.
+                  </div>
+              </div>
+            
+            <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q6" aria-expanded="true" aria-controls="collapseOne">
+                      ISIC: Apakah pendaftaran ISIC 2022 dipungut biaya?
+                    </button>
+                  </h5>
+              </div>
+              <div id="Q6" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    Tidak, pendaftaran ISIC 2022 ini gratis tidak dipungut biaya.
+                  </div>
+              </div>
+            
+            <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q7" aria-expanded="true" aria-controls="collapseOne">
+                      ISIC: Apakah perlombaan ISIC 2022 hanya boleh diikuti oleh mahasiswa prodi Sistem Informasi?
+                    </button>
+                  </h5>
+              </div>
+              <div id="Q7" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    Tidak, ISIC juga merupakan bagian dari IDLe, yang berarti mahasiswa fakultas ilmu komputer bisa join, silahkan lihat rulebook bagian ketentuan peserta untuk lebih jelas.
+                  </div>
+              </div>
+            
+            <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q8" aria-expanded="true" aria-controls="collapseOne">
+                      ISIC: Apa hubungannya ISIC dengan Gemastik?
+                    </button>
+                  </h5>
+              </div>
+              <div id="Q8" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    Gemastik merupakan lomba tingkat nasional, terdapat sub lomba yang merupakan inspirasi dari lomba ISIC. Adanya acara ISIC juga merupakan ajang dalam mempersiapkan mahasiswa mengikuti gemastik.
+                  </div>
+              </div>
+            
+            <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q9" aria-expanded="true" aria-controls="collapseOne">
+                      ISIC: Apakah template proposal sudah disediakan dan kapan dibagikan?
+                    </button>
+                  </h5>
+              </div>
+              <div id="Q9" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    Sudah, template akan disediakan oleh panitia dan untuk pembagian template sesuai dengan jadwal di website.
+                  </div>
+              </div>
+            
+            <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q10" aria-expanded="true" aria-controls="collapseOne">
+                      ISIC: Dalam satu tim terdiri dari berapa orang?
+                    </button>
+                  </h5>
+              </div>
+              <div id="Q10" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    Satu tim terdiri dari maksimal 3 orang dengan 1 mahasiswa menjadi ketua tim.
+                  </div>
+              </div>
+            
+            <div class="card-header">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#Q11" aria-expanded="true" aria-controls="collapseOne">
+                      ISIC: Setiap mahasiswa boleh mengikuti berapa bidang perlombaan?
+                    </button>
+                  </h5>
+              </div>
+              <div id="Q11" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    Mahasiswa diberi kesempatan dengan mengikuti maksimal 3 bidang perlombaan, dengan hanya 1 kali menjadi ketua tim.
+                  </div>
+              </div>
               
                 <div class="card-header">
                     <h5 class="mb-0">
