@@ -5,11 +5,11 @@
                 <div class="col-sm-4 col-md-3 item">
                     <h3>Kontak</h3>
                     <ul>
-                        <li><a href="mailto:humas@idle-unej.my.id">E-Mail : humas@idle-unej.my.id</a></li>
+                        <li><a href="mailto:humas@idle-unej.my.id">E-Mail : humas@idle-2022.me</a></li>
                         <li><a href="/faq#tanya">6281294710595 (Alifta)</a></li>
                         <li><a href="/faq#tanya">6282338251752 (Viqi)</a></li>
-                        <li><a href="/faq#tanya">6285203870233 (Aiya)</a></li>
-                        <li><a href="/faq#tanya">6285604834565 (fadil)</a></li>
+                        <li><a href="/faq#tanya">6285732442883 (Dinda)</a></li>
+                        <li><a href="/faq#tanya">6285855089931 (Nadya)</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4 col-md-3 item">
