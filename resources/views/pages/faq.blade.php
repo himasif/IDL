@@ -60,7 +60,7 @@
                       ISIC: Apa sih ISIC 2022 itu?
                     </button>
                   </h5>
-              </div> --}}
+              </div>
               <div id="Q1" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                   <div class="card-body">
                     ISIC merupakan sebuah kompetisi bidang IT yang bisa menjadi wadah untuk mahasiswa Fakultas Ilmu Komputer agar dapat melakukan proses uji kompetensi ide-ide mereka secara intensif dan juga teratur dalam lingkup fakultas ilmu komputer Universitas Jember.
