@@ -18,7 +18,7 @@
           <div class="row" id="top">
               <div class="col-12 col-lg-6 col-xl-5 offset-xl-1 bounce animated">
                   <h1 style="color: rgb(0,0,0);margin-top: 93px;font-family: Nunito, sans-serif;font-style: normal;font-weight: bold;">ILKOM Developer League</h1>
-                  <p style="color: rgba(0,0,0,0.8);font-family: Nunito, sans-serif;">Inovasi IT dalam Sustainable Development Goals untuk mempersiapkan Revolusi Industri 4.0</p>
+                  {{-- <p style="color: rgba(0,0,0,0.8);font-family: Nunito, sans-serif;">Inovasi IT dalam Sustainable Development Goals untuk mempersiapkan Revolusi Industri 4.0</p> --}}
                   <p style="color: rgba(0,0,0,0.8);font-family: Nunito, sans-serif;">Powered by</p>
                   <div style="margin-top: -31px;">
                       <div class="row">
