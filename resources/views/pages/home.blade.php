@@ -24,7 +24,7 @@
                       <div class="row">
                           <div class="col-3 col-md-3" style="padding-right: 0px;padding-left: 0px;"><img src="assets/img/HIMASIF.png" style="height: 80px;"></div>
                           <div class="col-3 col-md-3" style="padding-left: 0px;padding-right: 0px;"><img src="assets/img/HIMATIF.png" style="height: 87px;"></div>
-                          <div class="col-3 col-md-3" style="padding-left: 0px;padding-right: 0px;"><img src="assets/img/HMIF.png" style="height: 87px;"></div>
+                          <div class="col-3 col-md-3" style="padding-left: 0px;padding-right: 0px;"><img src="assets/img/hmif.png" style="height: 87px;"></div>
                           <div class="col-3 col-md-3" style="padding-left: 0px;padding-right: 0px;"><img src="assets/img/LAOS.png" style="height: 71px;"></div>
                       </div>
                   </div>
