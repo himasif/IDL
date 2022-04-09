@@ -45,59 +45,59 @@
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q1" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Apa sih BITS 2022 itu?
+                        ISIC: Apa sih ISIC 2022 itu?
                       </button>
                     </h5>
                 </div>
                 <div id="Q1" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      BITS 2022 (Bulan IT Sistem Informasi) merupakan serangkaian ajang kompetisi di bidang IT tingkat Fakultas yang diselenggarakan oleh Himpunan Mahasiswa Sistem Informasi yang akan diadakan pada tahun 2022.
+                      ISIC 2022 (Bulan IT Sistem Informasi) merupakan serangkaian ajang kompetisi di bidang IT tingkat Fakultas yang diselenggarakan oleh Himpunan Mahasiswa Sistem Informasi yang akan diadakan pada tahun 2022.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q2" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Acara apa saja yang akan diadakan oleh BITS 2022 ini?
+                        ISIC: Acara apa saja yang akan diadakan oleh ISIC 2022 ini?
                       </button>
                     </h5>
                 </div>
                 <div id="Q2" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      BITS 2022 ini akan mengadakan acara ISIC dan PKM Go untuk mengisi kegiatan BITS 2022 ini.
+                      ISIC 2022 ini akan mengadakan acara ISIC dan PKM Go untuk mengisi kegiatan ISIC 2022 ini.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q3" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Apa perbedaan ISIC dan PKM Go?
+                        ISIC: Apa perbedaan ISIC dan PKM Go?
                       </button>
                     </h5>
                 </div>
                 <div id="Q3" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      ISIC merupakan sebuah kompetisi bidang IT yang bisa menjadi wadah untuk mahasiswa Fakultas Ilmu Komputer agar dapat melakukan proses uji kompetensi ide-ide mereka secara intensif dan juga teratur dalam lingkup fakultas ilmu komputer Universitas Jember. Sedangkan PKM Go merupakan acara perlombaan di bidang Pekan Kreativitas Mahasiswa (PKM) tingkat Fakultas Ilmu Komputer Universitas Jember yang bertujuan untuk menjadi wadah sebagai media untuk menuangkan ide, mengkaji serta mengembangkan ilmu dan teknologi yang telah di pelajari di perkulihan. Untuk info lebih lengkap bisa cek instagram BITS 2022.
+                      ISIC merupakan sebuah kompetisi bidang IT yang bisa menjadi wadah untuk mahasiswa Fakultas Ilmu Komputer agar dapat melakukan proses uji kompetensi ide-ide mereka secara intensif dan juga teratur dalam lingkup fakultas ilmu komputer Universitas Jember. Sedangkan PKM Go merupakan acara perlombaan di bidang Pekan Kreativitas Mahasiswa (PKM) tingkat Fakultas Ilmu Komputer Universitas Jember yang bertujuan untuk menjadi wadah sebagai media untuk menuangkan ide, mengkaji serta mengembangkan ilmu dan teknologi yang telah di pelajari di perkulihan. Untuk info lebih lengkap bisa cek instagram ISIC 2022.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q4" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Kapan pelaksanaan BITS 2022?
+                        ISIC: Kapan pelaksanaan ISIC 2022?
                       </button>
                     </h5>
                 </div>
                 <div id="Q4" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      BITS 2022 akan dilaksanakan pada tanggal 4 April - 5 Juni 2022.
+                      ISIC 2022 akan dilaksanakan pada tanggal 4 April - 5 Juni 2022.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q5" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Bagaimana cara mendaftar BITS 2022?
+                        ISIC: Bagaimana cara mendaftar ISIC 2022?
                       </button>
                     </h5>
                 </div>
@@ -110,46 +110,46 @@
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q6" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Apakah pendaftaran BITS 2022 dipungut biaya?
+                        ISIC: Apakah pendaftaran ISIC 2022 dipungut biaya?
                       </button>
                     </h5>
                 </div>
                 <div id="Q6" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      Tidak, pendaftaran BITS 2022 ini gratis tidak dipungut biaya.
+                      Tidak, pendaftaran ISIC 2022 ini gratis tidak dipungut biaya.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q7" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Apakah perlombaan BITS 2022 hanya boleh diikuti oleh mahasiswa prodi Sistem Informasi?
+                        ISIC: Apakah perlombaan ISIC 2022 hanya boleh diikuti oleh mahasiswa prodi Sistem Informasi?
                       </button>
                     </h5>
                 </div>
                 <div id="Q7" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      Tidak, BITS juga merupakan bagian dari IDLe, yang berarti mahasiswa fakultas ilmu komputer bisa join, silahkan lihat rulebook bagian ketentuan peserta untuk lebih jelas.
+                      Tidak, ISIC juga merupakan bagian dari IDLe, yang berarti mahasiswa fakultas ilmu komputer bisa join, silahkan lihat rulebook bagian ketentuan peserta untuk lebih jelas.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q8" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Apa hubungannya BITS dengan Gemastik?
+                        ISIC: Apa hubungannya ISIC dengan Gemastik?
                       </button>
                     </h5>
                 </div>
                 <div id="Q8" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      Gemastik merupakan lomba tingkat nasional, terdapat sub lomba yang merupakan inspirasi dari lomba BITS. Adanya acara BITS juga merupakan ajang dalam mempersiapkan mahasiswa mengikuti gemastik.
+                      Gemastik merupakan lomba tingkat nasional, terdapat sub lomba yang merupakan inspirasi dari lomba ISIC. Adanya acara ISIC juga merupakan ajang dalam mempersiapkan mahasiswa mengikuti gemastik.
                     </div>
                 </div>
               
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q9" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Apakah template proposal sudah disediakan dan kapan dibagikan?
+                        ISIC: Apakah template proposal sudah disediakan dan kapan dibagikan?
                       </button>
                     </h5>
                 </div>
@@ -162,7 +162,7 @@
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q10" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Dalam satu tim terdiri dari berapa orang?
+                        ISIC: Dalam satu tim terdiri dari berapa orang?
                       </button>
                     </h5>
                 </div>
@@ -175,7 +175,7 @@
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q11" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Setiap mahasiswa boleh mengikuti berapa bidang perlombaan?
+                        ISIC: Setiap mahasiswa boleh mengikuti berapa bidang perlombaan?
                       </button>
                     </h5>
                 </div>
@@ -188,13 +188,13 @@
               <div class="card-header">
                     <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#Q12" aria-expanded="true" aria-controls="collapseOne">
-                        BITS: Apakah ada tema khusus dalam perlombaan BITS ini?
+                        ISIC: Apakah ada tema khusus dalam perlombaan ISIC ini?
                       </button>
                     </h5>
                 </div>
                 <div id="Q12" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
-                      Tema dalam perlombaan BITS 2022 kali ini yaitu "Transformation of Technology on Pandemic Era". Untuk selengkapnya bisa dilihat di dalam rulebook.
+                      Tema dalam perlombaan ISIC 2022 kali ini yaitu "Transformation of Technology on Pandemic Era". Untuk selengkapnya bisa dilihat di dalam rulebook.
                     </div>
                 </div>
               
