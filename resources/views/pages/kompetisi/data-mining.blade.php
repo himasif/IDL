@@ -41,7 +41,7 @@
                   <img class="img-fluid float-right" data-bs-hover-animate="pulse" src="{{asset('assets/img/kategori/'.$kategori->kategori.'.jpg')}}">
                </div>
                <div class="col-auto col-md-6">
-                   <h2>IoT</h2>
+                   <h2>Data Mining</h2>
                    <hr/>
                    <h4>Deskripsi Lomba</h4>
                    <p class="text-justify">
