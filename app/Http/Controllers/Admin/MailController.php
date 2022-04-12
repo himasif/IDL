@@ -43,7 +43,7 @@ class MailController extends Controller
             $nama = Mahasiswa::where('email', $email)->get()->first()->nama;
             $mailer->send('mails.send', compact('text', 'nama'), function ($message) use ($email) {
                 $message
-                    ->from(Auth::user()->name . '@idle-2021.me')
+                    ->from(Auth::user()->name . '@idle-unej.my.id')
                     ->to($email)
                     ->subject('Pesan dari IDLe');
             });
@@ -63,7 +63,7 @@ class MailController extends Controller
                 $email = $peserta->mahasiswa->email;
                 $mailer->send('mails.send', compact('text', 'nama'), function ($message) use ($email) {
                     $message
-                        ->from(strtolower(Auth::user()->name) . '@idle-2021.me')
+                        ->from(strtolower(Auth::user()->name) . '@idle-unej.my.id')
                         ->to($email)
                         ->subject('Pesan dari IDLe');
                 });
@@ -76,7 +76,7 @@ class MailController extends Controller
     {
         $text = $request->pesan;
         $data = [
-                'pengirim'=> strtolower(Auth::user()->name) . '@idle-2021.me'
+                'pengirim'=> strtolower(Auth::user()->name) . '@idle-unej.my.id'
                 ];
         foreach ($request->tims as $t) {
             $tim = Tim::with('pesertas.mahasiswa')
@@ -105,7 +105,7 @@ class MailController extends Controller
         $tim = Tim::find(5);
         $mailer->send('mails.daftar', compact('tim', 'kategori', 'kode'), function ($message) use ($email, $kategori) {
             $message
-                ->from(strtolower($kategori->ormawa->nama_ormawa) . '@idle-2021.me')
+                ->from(strtolower($kategori->ormawa->nama_ormawa) . '@idle-unej.my.id')
                 ->to($email)
                 ->subject('Pendaftaran IDLe');
         });

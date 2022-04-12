@@ -18,13 +18,14 @@
           <div class="row" id="top">
               <div class="col-12 col-lg-6 col-xl-5 offset-xl-1 bounce animated">
                   <h1 style="color: rgb(0,0,0);margin-top: 93px;font-family: Nunito, sans-serif;font-style: normal;font-weight: bold;">ILKOM Developer League</h1>
-                  <p style="color: rgba(0,0,0,0.8);font-family: Nunito, sans-serif;">Inovasi IT dalam Sustainable Development Goals untuk mempersiapkan Revolusi Industri 4.0</p>
+                  <br><br><br><br>
+                  {{-- <p style="color: rgba(0,0,0,0.8);font-family: Nunito, sans-serif;">Inovasi IT dalam Sustainable Development Goals untuk mempersiapkan Revolusi Industri 4.0</p> --}}
                   <p style="color: rgba(0,0,0,0.8);font-family: Nunito, sans-serif;">Powered by</p>
                   <div style="margin-top: -31px;">
                       <div class="row">
                           <div class="col-3 col-md-3" style="padding-right: 0px;padding-left: 0px;"><img src="assets/img/HIMASIF.png" style="height: 80px;"></div>
                           <div class="col-3 col-md-3" style="padding-left: 0px;padding-right: 0px;"><img src="assets/img/HIMATIF.png" style="height: 87px;"></div>
-                          <div class="col-3 col-md-3" style="padding-left: 0px;padding-right: 0px;"><img src="assets/img/HMIF.png" style="height: 87px;"></div>
+                          <div class="col-3 col-md-3" style="padding-left: 0px;padding-right: 0px;"><img src="assets/img/hmif.png" style="height: 87px;"></div>
                           <div class="col-3 col-md-3" style="padding-left: 0px;padding-right: 0px;"><img src="assets/img/LAOS.png" style="height: 71px;"></div>
                       </div>
                   </div>
@@ -105,8 +106,8 @@
             <div class="d-flex flex-row justify-content-center">
                 <img class="events" src="{{asset('assets/img/BITS.png')}}" alt="">
                 <img class="events" src="{{asset('assets/img/ITEC.png')}}" alt="">
-                <img class="events" src="{{asset('assets/img/ICOM.png')}}" alt="">
-                <img class="events" src="{{asset('assets/img/LAOS_ARENA.png')}}" alt="">
+                <img class="events" src="{{asset('assets/img/icom.png')}}" alt="">
+                <img class="events" src="{{asset('assets/img/laos_arena.png')}}" alt="">
             </div>
     </div>
 @endsection

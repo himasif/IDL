@@ -35,7 +35,7 @@ class KompetisiController extends Controller
             BisTik 3
             SmartCity 4
             UIUX 5
-            IOT 6
+            DataMining 6
             CPC 7
             CTF 8
             PKMGO 9
