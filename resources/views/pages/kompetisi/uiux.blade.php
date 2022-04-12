@@ -46,7 +46,8 @@
                    <h4>Deskripsi Lomba</h4>
                    <p class="text-justify">
                      User Interface dan User Experience (UI & UX) adalah sebuah desain produk yang berorientasi kepada tampilan, kenyamanan dan kemudahan user ketika menggunakannya. Lomba desain interaksi produk yang berorientasi pada kenyamanan dan kemudahan bagi pengguna.
-Fokus utama pada kategori ini pada tahun ini adalah membantu UMKM dalam meningkatkan ekonomi. 
+                     Fokus utama pada kategori ini pada tahun ini adalah membantu UMKM dalam meningkatkan ekonomi. 
+                     <br>Note.untuk ketua tim bisa join ke grub WhatsApp yang link nya sudah tertera di rulebook, semangat!!
                      </p>
                      <a class="btn btn-success shadow" href="{{ asset('assets/rulebook/'.$kategori->kategori.'.pdf') }}">Rule Book</a>
                      <a class="btn btn-success shadow" href="{{ asset('assets/template/'.$kategori->kategori.'.docx') }}">Template</a>
