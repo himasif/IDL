@@ -45,8 +45,10 @@
                    <hr/>
                    <h4>Deskripsi Lomba</h4>
                    <p class="text-justify">
-                     Internet of Things (IoT) atau Internet untuk Segalanya adalah suatu konsep dimana objek tertentu punya kemampuan untuk mentransfer data lewat jaringan tanpa memerlukan adanya interaksi dari manusia ke manusia ataupun dari manusia ke perangkat komputer. 
-Ide yang diangkat dalam kategori ini bebas, IoT mampu diterapkan pada hampir semua bidang pekerjaan manusia seperti bidang pertanian, perkebunan, kendali elektronik, dan lain-lain. 
+                   Data Mining atau Penambangan data merupakan salah satu pekerjaan yang penting untuk penyelesaian banyak permasalahan nyata saat ini. Jenis data yang ditambang bisa beragam,
+                   termasuk data transaksi, gambar, dan teks/bahasa. Perkembangan penambangan data semakin pesat seiring dengan pesatnya perkembangan pembelajaran mesin, khususnya deep learning.
+                   <br>Dalam lomba ini diharapkan para peserta dapat melakukan sebuah penambangan data yang telah tersedia.
+                   <br>Note.untuk ketua tim bisa join ke grub WhatsApp yang link nya sudah tertera di rulebook, dan sebelum mengumpulkan proposal peserta bisa melist judul proposal di link yang sudah tertera di dalam rulebook juga kemudian menghubungi cp yang tertera, semangat!!                   
                      </p>
                      <a class="btn btn-success shadow" href="{{ asset('assets/rulebook/'.$kategori->kategori.'.pdf') }}">Rule Book</a>
                      <a class="btn btn-success shadow" href="{{ asset('assets/template/'.$kategori->kategori.'.docx') }}">Template</a>
