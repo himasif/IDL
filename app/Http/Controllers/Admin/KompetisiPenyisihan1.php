@@ -82,7 +82,7 @@ class KompetisiPenyisihan1 extends Controller
 
         foreach ($mahasiswas as $mahasiswa) {
             $count++;
-            if ($count <= 1) {
+            if ($count <= 2) {
                 if ($mahasiswa["nim"] == null) {
                     return redirect()->back()->with('error', 'Gagal mendaftar, karena NIM belum diisi');
                 } else if (preg_match("/[12][0891]241010[1-3][01][0-9]{2}/", $mahasiswa["nim"]) == 0) {
