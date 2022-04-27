@@ -44,7 +44,7 @@ class AjaxController extends Controller
                 ->orderBy('created_at', 'desc')
                 ->get()
                 ->first();
-            $d->anggota = implode($anggota, ', ');
+            $d->anggota = implode(', ', $anggota);
         }
 
         return DataTables::of($data)->make(true);
@@ -69,7 +69,7 @@ class AjaxController extends Controller
                 ->orderBy('created_at', 'desc')
                 ->get()
                 ->first();
-            $d->anggota = implode($anggota, ', ');
+            $d->anggota = implode(', ', $anggota);
         }
 
         return DataTables::of($data)->make(true);
@@ -94,7 +94,7 @@ class AjaxController extends Controller
                 ->orderBy('created_at', 'desc')
                 ->get()
                 ->first();
-            $d->anggota = implode($anggota, ', ');
+            $d->anggota = implode(', ', $anggota);
         }
 
         return DataTables::of($data)->make(true);
