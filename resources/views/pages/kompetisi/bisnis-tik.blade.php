@@ -56,7 +56,7 @@
               {{-- <h1 class="text-center" style="font-family: Nunito, sans-serif;font-weight: bold;color: rgb(255,255,255);"> Pendaftaran kompetisi {{ $kategori->nama_kategori }} sudah ditutup! <br>
               Nantikan kami di ISIC tahun depan :)</h1>  --}}
                 @csrf
-                {{-- <input type="hidden" value="{{ $kategori->id }}" name="kategori">
+                <input type="hidden" value="{{ $kategori->id }}" name="kategori">
                 <h2 class="text-center" style="font-family: Nunito, sans-serif;font-weight: bold;color: rgb(255,255,255);">Pendaftaran</h2>
                 <div class="form-group">
                   <label>Nama Tim</label>
@@ -140,7 +140,7 @@
                     </div>
                 </div>
               	<i style="color: white;">(kosongi anggota 2 jika hanya mendaftarkan 2 peserta)</i>
-                <div class="text-center" ><button class="btn btn-success" id="reg-submit" type="submit">Daftar</button></div> --}}
+                <div class="text-center" ><button class="btn btn-success" id="reg-submit" type="submit">Daftar</button></div>
             </form>
         </div>
 @endsection
