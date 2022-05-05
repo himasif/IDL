@@ -53,8 +53,8 @@
         </div>
        <div data-bs-parallax-bg="true" class="register-img">
             <form method="post" class="register-form" action="{{ route('kompetisi.store', ['kategori' => $kategori->id]) }}" method="POST">
-              <h1 class="text-center" style="font-family: Nunito, sans-serif;font-weight: bold;color: rgb(255,255,255);"> Pendaftaran kompetisi {{ $kategori->nama_kategori }} sudah ditutup! <br>
-              Nantikan kami di ISIC tahun depan :)</h1> 
+              {{-- <h1 class="text-center" style="font-family: Nunito, sans-serif;font-weight: bold;color: rgb(255,255,255);"> Pendaftaran kompetisi {{ $kategori->nama_kategori }} sudah ditutup! <br>
+              Nantikan kami di ISIC tahun depan :)</h1>  --}}
                 @csrf
                 {{-- <input type="hidden" value="{{ $kategori->id }}" name="kategori">
                 <h2 class="text-center" style="font-family: Nunito, sans-serif;font-weight: bold;color: rgb(255,255,255);">Pendaftaran</h2>
