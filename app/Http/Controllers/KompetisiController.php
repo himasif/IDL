@@ -45,7 +45,7 @@ class KompetisiController extends Controller
          *  isikan pada array sesuai id tahapan lomba.
         */
         $kat_final = [];
-        $kat_2 = [];
+        $kat_2 = [1, 3, 4, 10];
 
 
 
@@ -54,19 +54,19 @@ class KompetisiController extends Controller
 
         $babak = 1;
 
-        if(in_array($kategori->id, $kat_2)){
+        if (in_array($kategori->id, $kat_2)) {
             $babak = 2;
-        } else if(in_array($kategori->id, $kat_final)){
+        } else if (in_array($kategori->id, $kat_final)) {
             $babak = 3;
         }
 
         $tims = Tim::with('nilais')->where('id_kategori', $kategori->id)->where('babak', $babak)
             ->paginate(20);
 
-        foreach ($tims as $tim){
-          if(count($tim->nilais) != 0){
-          $tim->nilai = [$tim->nilais[count($tim->nilais)-1]];
-          }
+        foreach ($tims as $tim) {
+            if (count($tim->nilais) != 0) {
+                $tim->nilai = [$tim->nilais[count($tim->nilais) - 1]];
+            }
         }
         return view('pages.peserta', compact('kategoris', 'tims', 'kategori', 'babak'));
     }
